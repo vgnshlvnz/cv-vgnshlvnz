@@ -6,5 +6,5 @@
     "directory": "./public"
   }
   // Optional custom domain (zone must be on your Cloudflare account):
-  // ,"routes": [{ "pattern": "cv.example.com", "custom_domain": true }]
+   ,"routes": [{ "pattern": "cv.vgnshlv.nz", "custom_domain": true }]
 }
